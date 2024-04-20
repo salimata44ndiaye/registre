@@ -1,0 +1,26 @@
+*body{
+    background: url('../images/kev pointages.jpeg') no-repeat fixed   center;
+    }
+    .container{
+        padding: 30px;
+        border-radius: 15px;
+    
+    }
+    form{
+        padding: 90px;
+        background-color: rgb(47, 105, 143);
+        border-radius: 15px;
+        border: none;
+    }
+    
+    input {
+        padding: 10px;
+    }
+    h2{
+        justify-content: center;
+        color: white;
+    }
+    .connecter{
+    justify-content: center;
+    }
+    
